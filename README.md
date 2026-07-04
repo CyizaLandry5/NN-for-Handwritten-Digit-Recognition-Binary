@@ -66,3 +66,10 @@ In this practice lab, I implemented a neural network to recognize handwritten di
    - Used `np.matmul()` for matrix multiplication
    - Applied broadcasting for bias addition
 
+### ✅ Built Complete Neural Network
+
+- **Dataset**: 1000 training examples (20×20 pixel images)
+- **Features**: 400 (flattened image)
+- **Classes**: 2 (digit 0 and digit 1)
+- **Training**: 20 epochs with Adam optimizer
+- **Accuracy**: ~99-100% on training data
