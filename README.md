@@ -61,3 +61,8 @@ In this practice lab, I implemented a neural network to recognize handwritten di
    - Computed `z = dot(w, a_in) + b` for each unit
    - Applied activation function `g(z)`
 
+3. **Vectorized NumPy Implementation (my_dense_v)**
+   - Implemented matrix-based dense layer
+   - Used `np.matmul()` for matrix multiplication
+   - Applied broadcasting for bias addition
+
