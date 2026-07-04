@@ -32,3 +32,16 @@ In this practice lab, I implemented a neural network to recognize handwritten di
 - Implemented forward propagation without using high-level frameworks
 - Built dense layer subroutine using for loops
 - Understood the mathematical operations: `z = w·x + b`, `a = g(z)`
+
+### 4. **Vectorization**
+- Learned the difference between scalar and vectorized implementations
+- Implemented matrix-based operations for efficiency
+- Understood NumPy broadcasting for adding bias vectors
+
+### 5. **Model Evaluation**
+- Made predictions using trained models
+- Applied threshold (0.5) for binary classification
+- Visualized predictions and identified errors
+
+---
+
