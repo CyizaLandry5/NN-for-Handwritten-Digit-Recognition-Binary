@@ -73,3 +73,12 @@ In this practice lab, I implemented a neural network to recognize handwritten di
 - **Classes**: 2 (digit 0 and digit 1)
 - **Training**: 20 epochs with Adam optimizer
 - **Accuracy**: ~99-100% on training data
+
+### ✅ Achieved Understanding
+
+- Discovered the power of neural networks for image recognition
+- Learned to implement neural networks both with and without TensorFlow
+- Understood the importance of vectorization for performance
+- Visualized model predictions and identified misclassifications
+
+---
