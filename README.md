@@ -45,3 +45,19 @@ In this practice lab, I implemented a neural network to recognize handwritten di
 
 ---
 
+## What I Accomplished
+
+### ✅ Implemented Core Functions
+
+1. **TensorFlow/Keras Model**
+   - Built Sequential model with 3 dense layers
+   - Layer 1: 25 units, sigmoid activation
+   - Layer 2: 15 units, sigmoid activation
+   - Layer 3: 1 unit, sigmoid activation
+   - Total parameters: 10,431
+
+2. **NumPy Forward Propagation (my_dense)**
+   - Implemented dense layer using for loops
+   - Computed `z = dot(w, a_in) + b` for each unit
+   - Applied activation function `g(z)`
+
