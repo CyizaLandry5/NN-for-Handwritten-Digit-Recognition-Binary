@@ -14,3 +14,11 @@
 In this practice lab, I implemented a neural network to recognize handwritten digits zero and one using binary classification. The assignment covered building neural networks using TensorFlow/Keras, implementing forward propagation from scratch in NumPy, and understanding the differences between scalar, vectorized, and matrix-based implementations.
 
 ---
+
+## What I Learned
+
+### 1. **Neural Network Fundamentals**
+- Built a 3-layer neural network for binary classification
+- Used sigmoid activation functions in all layers
+- Understood the architecture: input layer, hidden layers, output layer
+
