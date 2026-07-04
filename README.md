@@ -22,3 +22,13 @@ In this practice lab, I implemented a neural network to recognize handwritten di
 - Used sigmoid activation functions in all layers
 - Understood the architecture: input layer, hidden layers, output layer
 
+### 2. **TensorFlow/Keras Implementation**
+- Constructed Sequential models using Keras
+- Implemented Dense layers with sigmoid activation
+- Compiled models with Binary Crossentropy loss and Adam optimizer
+- Trained models using the `fit()` method
+
+### 3. **NumPy Implementation from Scratch**
+- Implemented forward propagation without using high-level frameworks
+- Built dense layer subroutine using for loops
+- Understood the mathematical operations: `z = w·x + b`, `a = g(z)`
